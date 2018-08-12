@@ -10,8 +10,8 @@ An online bookstore project acts as a central database containing various books 
 We use Github for versioning.
 
 # Authors
-•	Mansi Patel
-•	Ramandeep Kaur 
+•	Mansi Patel (200351242)
+•	Ramandeep Kaur (200353584)
 
 # Reference
 https://github.com/ifotn
